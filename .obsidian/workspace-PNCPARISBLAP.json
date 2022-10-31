@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "d3c6116b730d5f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c2b3f301603b553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a1eaf6341d18d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastStats Documentation/Installing Orbit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b123915ab158db6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastStats Documentation/Installing Orbit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42440b028384eb63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastStats Documentation/FastStats/Azure Infrastructure/Bicep Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edd62cc7bd69bf8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "99f7a71827d0f29f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75c83cb6ee6fefb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22fc12b84ec71a3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e167c8f53c9a6dd6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "f57c6118505246cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "69d3d2d26a954fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb9ddc46c518d88c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FastStats Documentation/FastStats/Azure Infrastructure/Bicep Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a2e812cfd6fe6f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FastStats Documentation/FastStats/Azure Infrastructure/Bicep Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fddc59119f355dd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b1d858c6151389e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FastStats Documentation/FastStats/Azure Infrastructure/Bicep Template.md"
+              }
+            }
+          },
+          {
+            "id": "1c7ef381ee11106e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "42440b028384eb63",
+  "lastOpenFiles": [
+    "FastStats Documentation/Installing Orbit.md",
+    "FastStats Documentation/Updating Orbit.md",
+    "Development/Courses/SG MicroServices/NATS Streaming Server/Failed Event Publishing.md",
+    "Development/Courses/SG MicroServices/NATS Streaming Server/Setting up STAN in the microservice (Singleton Pattern).md",
+    "Development/Courses/SG MicroServices/Node.js Tips and Tricks.md",
+    "Development/Courses/SG MicroServices/NATS Streaming Server/NATS Publisher Class.md",
+    "Development/Courses/SG MicroServices/NATS Streaming Server/NATS Listener Class.md",
+    "Development/Courses/SG MicroServices/JavaScript Tips and Tricks.md",
+    "Development/Courses/SG MicroServices/NATS Streaming Server/General Message Bus Considerations.md",
+    "Development/Courses/SG MicroServices/TypeScript/Setup and Tooling.md"
+  ]
+}
